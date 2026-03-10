@@ -7,7 +7,7 @@ function App() {
       <h1 style={{
         color: "#f3bdbd",
         backgroundColor: "#bffad3"
-      }}>hello </h1>
+      }}>hello {name} </h1>
     </div>
   );
 }
