@@ -1,4 +1,5 @@
 npx create-react-app my-app으로 시작하기
+npm run start로 사이트 보는 거
 
 # Getting Started with Create React App
 
