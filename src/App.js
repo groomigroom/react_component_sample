@@ -1,4 +1,5 @@
 import './App.css';
+import Hello from './component/hello';
 
 function App() {
   const name = "tom";
@@ -13,6 +14,7 @@ function App() {
         backgroundColor: "#bffad3"
       }}>hello {name} </h1>
       <a href={naver.url}>{naver.name}</a>
+      <Hello />
     </div>
   );
 }
