@@ -1,5 +1,6 @@
 import './App.css';
 import Hello from './component/hello';
+/*import styles from "./app_module.css" */
 
 
 function App() {
