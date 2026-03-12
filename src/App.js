@@ -15,7 +15,7 @@ function App() {
       <h1 style={{
         color: "#f3bdbd",
         backgroundColor: "#bffad3"
-      }}>hello {name} </h1>
+      }}>hello yeahyeah {name} </h1>
       <a href={naver.url} className='naver_bar'>{naver.name}</a>
       <Hello />
     </div>
